@@ -60,7 +60,7 @@ export function Hero() {
           <div className="relative w-full mx-auto lg:mx-0">
             <div className="aspect-square rounded-2xl bg-gradient-to-br from-primary/10 via-background to-secondary/10 p-3 sm:p-6 lg:p-8 flex items-center justify-center hover:scale-105 transition-transform duration-500 hover:shadow-2xl">
               <img
-                src="images/bluebell-services.jpg"
+                src="images/bluebell-services.png"
                 alt="Bluebell Concierge Services"
                 className="w-full h-full object-contain rounded-xl"
               />
